@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Unica One
+- Font Author: Copyright 2012 The Unica One Project Authors (https://github.com/etunni/unica)
+- Font Source: http://fonts.gstatic.com/s/unicaone/v18/DPEuYwWHyAYGVTSmalshdtffuEY7FA.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
