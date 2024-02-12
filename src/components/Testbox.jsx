@@ -95,8 +95,8 @@ const Testbox = () => {
 
   return (
     <div>
-      <div className="flex h-screen flex-col justify-center items-center">
-        <div className=" bg-sec w-[700px] border-[#22501a] border rounded-lg ">
+      <div className="flex h-screen flex-col justify-center items-center px-2 sm:px-1">
+        <div className=" bg-sec w-auto sm:w-[700px] border-[#22501a] border rounded-lg  ">
           <div className="bg-[#1e222d] w-full p-4 flex justify-between rounded-lg">
             <div className="text-white font-semibold text-xl">
               EVM Smartcontract Honeypot Check
@@ -108,8 +108,8 @@ const Testbox = () => {
             </div>
           </div>
           {/* Form Beigns */}
-          <div className="flex p-2">
-            <div className="w-1/2">
+          <div className="flex flex-col sm:flex-row p-2">
+            <div className=" w-full sm:w-1/2">
               <div className="flex flex-col py-2 ">
                 <label className=" text-white text-lg font-medium">
                   Token Address
@@ -188,7 +188,7 @@ const Testbox = () => {
                 </button>
               </div>
             </div>
-            <div className="w-1/2 p-2 text-xs">
+            <div className=" w-full sm:w-1/2 p-2 text-xs">
               <div className="bg-black w-full h-full p-2">
                 {screenLoad ? (
                   <>
