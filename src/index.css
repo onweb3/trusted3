@@ -1,3 +1,16 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.bg-prime{
+
+   background-color: #04181c;
+}
+
+.bg-sec{
+    background-color: #051f23;
+}
+
+body{
+    background-color: #04181c;
+}
